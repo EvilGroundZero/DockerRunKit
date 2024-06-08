@@ -64,7 +64,7 @@ If the Docker image does not exist in the environment, the API will check Docker
 
 ### Example:
 ```sh
-curl "http://ip:8000/runcmd/?api_key=yourhashedkey&command=docker%20run%20-p%2040000:80%20your_docker_image"
+curl "http://ip:8000/runcmd/?api_key=yourhashedkey&command=docker run -d -p 61001:10000 tmmaz/ofb:tagname"
 ```
 
 ## API Endpoints
