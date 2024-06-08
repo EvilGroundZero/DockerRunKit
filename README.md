@@ -24,7 +24,7 @@ DockerRunKit is an API solution developed by CyberAliens to manage VPS servers e
 
 We are excited to introduce our new API, DockerRunKit. Developed in response to challenges faced during our CyberAliens competitions, DockerRunKit aims to provide a seamless solution for managing VPS resources and avoiding port conflicts during PWN and WEB challenges.
 
-First, we hope to make changes and provide solutions from CyberAliens. The main reason for this API is that CyberAliens hosts three competitions, and the PWN and WEB challenges often experience downtime because all users use the same port for the same question. After our competition, Qays Sarayra and Abdulrahman Almeslamani, the CTO and CIO of CyberAliens and leaders of the ECCO team, searched for a solution.
+First, we hope to make changes and provide solutions from CyberAliens. The main reason for this API is that CyberAliens hosts three competitions, and the PWN and WEB challenges often experience downtime because all users use the same port for the same challenge. After our competition, Qays Sarayra and Abdulrahman Almeslamani, the CTO and CIO of CyberAliens and leaders of the ECCO team, searched for a solution.
 
 ### Key Features:
 - Manages VPS servers and allocates more resources dynamically.
