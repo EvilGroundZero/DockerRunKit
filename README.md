@@ -33,7 +33,7 @@ To install DockerRunKit, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YourUsername/DockerRunKit.git
+    git clone https://github.com/EvilGroundZero/DockerRunKit.git
     cd DockerRunKit
     ```
 
@@ -57,14 +57,14 @@ To install DockerRunKit, follow these steps:
 To use the API, create a secret key and hash it with SHA-384. Send the Docker command to run with the following format:
 
 ```sh
-http://195.110.58.115:8000/runcmd/?api_key=yourhashedkey&command=DockerCommandRun
+http://ip:8000/runcmd/?api_key=yourhashedkey&command=DockerCommandRun
 ```
 
 If the Docker image does not exist in the environment, the API will check DockerHub for the image.
 
 ### Example:
 ```sh
-curl "http://195.110.58.115:8000/runcmd/?api_key=yourhashedkey&command=docker%20run%20-p%2040000:80%20your_docker_image"
+curl "http://ip:8000/runcmd/?api_key=yourhashedkey&command=docker%20run%20-p%2040000:80%20your_docker_image"
 ```
 
 ## API Endpoints
