@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align:center">
-    ![alt text](image/Cyberaliens.png)
-</div>
+ 
+![alt text](image/Cyberaliens.png)
+ 
 
 
 # DockerRunKit
