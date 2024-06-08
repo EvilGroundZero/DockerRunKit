@@ -9,7 +9,7 @@
 
 # DockerRunKit
 
-DockerRunKit is an API solution developed by CyberAliens to manage VPS servers efficiently, enabling each team to run PWN and WEB challenges independently without port conflicts. This project is built using the FastAPI framework.
+DockerRunKit is an API solution developed by CyberAliens for CTF platform developers. It is designed to manage VPS servers efficiently, enabling each team to run PWN and WEB challenges independently without port conflicts. This project is built using the FastAPI framework.
 
 ## Table of Contents
 
