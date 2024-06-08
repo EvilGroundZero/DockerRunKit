@@ -18,7 +18,7 @@ DockerRunKit is an API solution developed by CyberAliens to manage VPS servers e
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Directory Structure](#directory-structure)
-- [License](#license)
+
 
 ## Introduction
 
